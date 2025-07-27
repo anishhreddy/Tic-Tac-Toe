@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #26c485;
+}
+
+.innerelement {
+  border: 3px solid black;
+  height: 130px;
+  width: 130px;
+}
